@@ -1,0 +1,7 @@
+.lampMove {
+  display: flex;
+}
+.lampMove__img {
+  padding-top: 250px;
+  margin: auto;
+}
